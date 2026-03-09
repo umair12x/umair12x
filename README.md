@@ -1,7 +1,3 @@
- I'll craft a premium, visually stunning GitHub profile README for you. Let me design something with modern aesthetics, smooth animations, glassmorphism effects, and professional typography that stands out from typical profiles. 
-Here's your **premium, professional GitHub profile README** with modern glassmorphism design, smooth animations, and enhanced tech stack:
-
-```markdown
 <!-- 
   ╔══════════════════════════════════════════════════════════════════╗
   ║                    PREMIUM GITHUB PROFILE                        ║
@@ -10,47 +6,35 @@ Here's your **premium, professional GitHub profile README** with modern glassmor
 -->
 
 <div align="center">
-  
-<!-- Animated Header with Gradient -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Umair%20Javed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18"/>
 
-<!-- Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Transforming+Ideas+into+Reality+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+the+Future+with+Code+🚀;Transforming+Ideas+into+Reality+✨;Open+Source+Contributor+🌟;Always+Learning+Always+Growing+🌱" />
 </a>
 
 </div>
 
 <br>
 
-<!-- Glassmorphism Profile Views & Badges -->
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=umair12x&label=Profile%20Views&color=667eea&style=for-the-badge&logo=eye&logoColor=white)](https://github.com/umair12x)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=umair12x&label=Profile%20Views&color=667eea&style=for-the-badge)](https://github.com/umair12x)
 [![GitHub Followers](https://img.shields.io/github/followers/umair12x?label=Followers&style=for-the-badge&color=764ba2&logo=github)](https://github.com/umair12x)
 [![GitHub Stars](https://img.shields.io/github/stars/umair12x?label=Stars&style=for-the-badge&color=f093fb&logo=github)](https://github.com/umair12x)
 
 </div>
 
-<br>
+---
 
-<!-- About Me Section with Glass Card -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  About Me
-</h2>
+# 👋 About Me
 
-<div align="center">
-  
 ```diff
-+ 🎓 Computer Science Student at University of Agriculture Faisalabad
-+ 🏆 Hackathon Champion | Tech Fest UAF 2024 & 2025
-+ 💼 Remote Developer @ Code Alpha & DevelopersHub Corporation
-+ 🌱 Currently mastering Next.js, System Design & Cloud Architecture
-+ ⚡ Mission: Crafting scalable solutions that impact millions
-```
-
-</div>
++ 🎓 Computer Science Student
++ 💻 Full Stack Developer
++ 🚀 Passionate about building scalable web applications
++ 🌱 Currently learning Next.js, System Design, Cloud
++ ⚡ Love solving real world problems with code
 
 <br>
 
