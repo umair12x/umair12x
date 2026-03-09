@@ -27,16 +27,22 @@
 
 ---
 
-# 👋 About Me
 
+<!-- About Me Section with Glass Card -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  About Me
+</h2>
+
+<div align="center">
+  
 ```diff
-+ 🎓 Computer Science Student
-+ 💻 Full Stack Developer
-+ 🚀 Passionate about building scalable web applications
-+ 🌱 Currently learning Next.js, System Design, Cloud
-+ ⚡ Love solving real world problems with code
++ 🎓 Computer Science Student at University of Agriculture Faisalabad 2022-2026
++ 🏆 Hackathon Participant | Tech Fest UAF 2024 & 2025
++ 💼 Remote Developer @ Code Alpha & DevelopersHub Corporation
++ 🌱 Currently mastering Next.js, System Design
++ ⚡ Mission: Crafting scalable solutions that impact millions
 ```
-
 
 <br>
 
