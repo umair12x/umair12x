@@ -96,9 +96,9 @@
 
 | 🏢 Organization | 🎭 Role | 📅 Duration | 🌟 Status |
 |:---:|:---:|:---:|:---:|
-| **Code Alpha** | Remote Full Stack Developer | 2023 - Present | <img src="https://img.shields.io/badge/Active-00C853?style=flat-square&logo=checkmarx&logoColor=white"/> |
-| **DevelopersHub Corporation** | Software Engineer Intern | 2023 - Present | <img src="https://img.shields.io/badge/Active-00C853?style=flat-square&logo=checkmarx&logoColor=white"/> |
-| **Tech Fest UAF** | Hackathon Participant | 2024 - 2025 | <img src="https://img.shields.io/badge/Champion-FFD700?style=flat-square&logo=trophy&logoColor=black"/> |
+| **Code Alpha** | Remote Full Stack Developer | 2024 | <img src="https://img.shields.io/badge/Active-00C853?style=flat-square&logo=checkmarx&logoColor=white"/> |
+| **DevelopersHub Corporation** | Software Engineer Intern | 2026 | <img src="https://img.shields.io/badge/Active-00C853?style=flat-square&logo=checkmarx&logoColor=white"/> |
+| **Tech Fest UAF** | Hackathon Participant | 2024 - 2025 | <img src="https://img.shields.io/badge/Participant-FFD700?style=flat-square&logo=trophy&logoColor=black"/> |
 
 </div>
 
