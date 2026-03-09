@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Umair%20Javed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=M%20Umair&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+the+Future+with+Code+🚀;Transforming+Ideas+into+Reality+✨;Open+Source+Contributor+🌟;Always+Learning+Always+Growing+🌱" />
@@ -35,6 +35,8 @@
 + 🚀 Passionate about building scalable web applications
 + 🌱 Currently learning Next.js, System Design, Cloud
 + ⚡ Love solving real world problems with code
+```
+
 
 <br>
 
