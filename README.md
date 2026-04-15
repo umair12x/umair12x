@@ -1,32 +1,30 @@
 <!-- 
   ╔══════════════════════════════════════════════════════════════════════════════╗
-  ║                         ⚡ PEAK TIER GITHUB PROFILE ⚡                        ║
-  ║                    Architected with Atomic Precision                          ║
-  ║              Where Engineering Excellence Meets Visual Artistry               ║
+  ║                    ⚡ PEAK TIER GITHUB PROFILE v2.0 ⚡                        ║
+  ║              Optimized for Performance, Clarity, and Impact                   ║
   ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- Dynamic 3D Waving Header with Gradient Morph -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=350&section=header&text=MUHAMMAD%20UMAIR&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Architect%20%7C%20System%20Designer%20%7C%20Innovation%20Engineer&descAlignY=55&descSize=22&font=JetBrains%20Mono"/>
+<!-- Dynamic Header with Gradient Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=MUHAMMAD%20UMAIR&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20System%20Architect%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18&font=JetBrains%20Mono"/>
 
-<!-- Matrix-style Typing Animation -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=⚡+Architecting+Digital+Experiences;🚀+Scaling+Systems+to+Millions;🔥+Open+Source+Contributor;🧠+Problem+Solver+%7C+Code+Artist;💎+Crafting+Pixel-Perfect+Solutions" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=Building+Scalable+Digital+Solutions;Transforming+Ideas+into+Production+Code;Passionate+About+Clean+Architecture;Always+Learning%2C+Always+Building" alt="Typing Animation"/>
 </a>
 
 </div>
 
 <br>
 
-<!-- Floating Status Bar with Glassmorphism -->
+<!-- Status Badges -->
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=umair12x&label=Profile%20Views&color=00D9FF&style=for-the-badge&logo=eye&logoColor=white)](https://github.com/umair12x)
-[![GitHub Followers](https://img.shields.io/github/followers/umair12x?label=Followers&style=for-the-badge&color=FF006E&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/umair12x)
-[![GitHub Stars](https://img.shields.io/github/stars/umair12x?label=Stars&style=for-the-badge&color=FB5607&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/umair12x)
-[![Commits](https://img.shields.io/github/commit-activity/y/umair12x/umair12x?label=Commits&style=for-the-badge&color=8338EC&logo=git&logoColor=white&labelColor=0D1117)](https://github.com/umair12x)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=umair12x&label=Profile%20Views&color=667eea&style=for-the-badge)](https://github.com/umair12x)
+[![GitHub Followers](https://img.shields.io/github/followers/umair12x?label=Followers&style=for-the-badge&color=764ba2&logo=github)](https://github.com/umair12x)
+[![GitHub Stars](https://img.shields.io/github/stars/umair12x?label=Stars&style=for-the-badge&color=f093fb&logo=github)](https://github.com/umair12x)
 
 </div>
 
@@ -55,7 +53,7 @@ Location: Faisalabad, Pakistan
 ```
 </td> <td width="50%" valign="top">
 
-🚀 Milestones
+### 🚀 `Milestone`
 ```yaml
 
 Hackathons: Tech Fest UAF 2024 & 2025
@@ -65,10 +63,8 @@ Mission: Impact Through Innovation
 ```
 </td> </tr> </table> 
 
-</div>
-<!-- Animated Divider -->
+</div><!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Arsenal
 <div align="center">
 <!-- Frontend Section with Neon Glow -->
@@ -174,20 +170,16 @@ Mission: Impact Through Innovation
 <td width="50%">
 🎓 Academic Excellence
 https://coursera.org
-
-    Node.js & MongoDB: Developing Back-end Database Applications
-    University of Michigan | 2025
-    <sub>
-
+Node.js & MongoDB: Developing Back-end Database Applications
+University of Michigan | 2025
+<sub>
 </td>
 <td width="50%">
 🏆 Competitive Programming
 https://uaf.edu.pk
-
-    Web Development Hackathon Participant
-    2024 & 2025 Editions
-    <sub>
-
+Web Development Hackathon Participant
+2024 & 2025 Editions
+<sub>
 </td>
 </tr>
 </table>
@@ -243,10 +235,8 @@ https://uaf.edu.pk
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
-<!-- Profile Views Counter (Hidden but functional) -->
-<div align="center">
-https://api.visitorbadge.io/api/visitors?path=umair12x&label=Profile%20Views&labelColor=%230D1117&countColor=%2300D9FF&style=flat&labelStyle=upper
-</div>
+<!-- Profile Views Counter -->
+<div align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=umair12x&label=Profile%20Views&labelColor=%230D1117&countColor=%2300D9FF&style=flat&labelStyle=upper" /> </div><!--
 <!--
   ╔══════════════════════════════════════════════════════════════════════════════╗
   ║                         🔥 CRAFTED WITH PASSION 🔥                           ║
